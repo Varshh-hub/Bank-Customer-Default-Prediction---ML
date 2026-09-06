@@ -125,6 +125,6 @@ The model's predictions should therefore be treated as **risk-assessment outputs
 
 **Varsha A.**
 
-Aspiring Data Scientist | Machine Learning | Data Analytics
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
 
 ---
